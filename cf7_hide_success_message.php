@@ -4,7 +4,7 @@
  * Plugin Name: Contact Form-7 : Hide Success Message
  * Plugin URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * Description: Contact Form-7 : Hide Success Message will hide the Success Message after defined time by the user only if message sent successfully
- * Version: 0.5
+ * Version: 0.0.9
  * Author: rohilmistry
  * Author URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * License: GPLv3
