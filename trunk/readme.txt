@@ -26,8 +26,8 @@ If you have any suggestion or want to get support then head over to Support tab.
 Even Contribution is also welcome.For that switch to [Github](www.github.com)
 
 
-**NOTE:** If it is active, then it will be applied to all the Form that is created by the Contact Form 7. I will not even hide the message if the Mail is not sent.
-
+**NOTE:** If it is active, then it will be applied to all the Form that is created by the Contact Form 7. It will not even hide the message if the Mail is not sent.
+**BETA VERSION**
 
 == Installation ==
 
