@@ -1,0 +1,16 @@
+.cf7_init .form-table{
+	background-color:white;
+	margin-left:10px;
+	margin-top:5%;
+	width:80%;
+}
+
+.cf7_init table.form-table th{
+	padding:20px;
+}
+
+.ajax_loader{
+	display:inline-block;
+	width:21px;
+	height:20px;
+}
