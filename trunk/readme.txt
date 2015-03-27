@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com
 Tags: Contact Form 7, contact, form, cf7, contact-form7, contact-form 7, contact-form-7, hide, success, message, contact form-7 hide success message, hide success message, msg, alert, alert message, contact form-7 alert message
 Requires at least: 3.8
 Tested up to: 4.1.1
-Stable tag: 0.5
+Stable tag: 0.0.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
