@@ -24,6 +24,8 @@ jQuery("#cf7Init").click(function(){
 		action:	"save_selected_option",
 		nonce: nonce,
 		delay_time : jQuery("#cf7_hide_msg_input").val(),
+		effect_	   : jQuery("#cf7_hide_msg_effect").val(),
+		speed_effect_:jQuery("#cf7_hide_msg_speed_effect").val(),
 		activate_plugin : jQuery("#enable_cf7_hide_success_msg").is(":checked")
 	}
 	
