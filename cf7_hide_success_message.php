@@ -4,7 +4,7 @@
  * Plugin Name: Contact Form-7 : Hide Success Message
  * Plugin URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * Description: Contact Form-7 : Hide Success Message will hide the Success Message after defined time by the user only if message sent successfully
- * Version: 1.0.1
+ * Version: 1.1.0
  * Author: rohilmistry
  * Author URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * License: GPLv3
@@ -159,9 +159,9 @@ if(cf7_is_plugin_active('contact-form-7/wp-contact-form-7.php')){
 											<p>As many people want to hide the message after email has been sent<br> successfully, but somehow they do not manage it with the Additional<br> Settings that Contact Form 7 Provides.So this plugin is to help those<br> people.You just need to enable the plugin from below and you can<br> configure it as per your needs.<br><a href="https://wordpress.org/support/plugin/contact-form-7-hide-success-message" target="_blank">Give suggestion/Feature Request!</a><br><h4><strong>Bingo !!</strong></h4> Now go and test it!</p>
 										</div>
 										<div class="welcome-panel-column">
-											<h4>Want help?</h4>
-											<p>We are always ready to help you.</p>
-											<a href="https://wordpress.org/support/plugin/contact-form-7-hide-success-message" class="button button-primary" target="_blank">Ask for Support!</a>										
+											<h4>Want more plugins??</h4>
+											<p>Premium plugin for you!!</p>
+											<a href="http://codecanyon.net/item/woocommerce-empty-cart/11409300" class="button button-primary" target="_blank">WooCommerce Empty Cart</a>										
 										</div>
 										<div class="welcome-panel-column">
 											<h4>Like it ???</h4>
