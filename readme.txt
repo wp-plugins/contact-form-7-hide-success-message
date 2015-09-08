@@ -3,8 +3,8 @@ Contributors: rohilmistry
 Donate link: https://www.paypal.com
 Tags: Contact Form 7, contact, form, cf7, contact-form7, contact-form 7, contact-form-7, hide, success, message, contact form-7 hide success message, hide success message, msg, alert, alert message, contact form-7 alert message, addon, add-on
 Requires at least: 3.8
-Tested up to: 4.2.2
-Stable tag: 1.1.0
+Tested up to: 4.3
+Stable tag: 1.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -27,7 +27,7 @@ We always welcome your [suggestion](https://wordpress.org/support/plugin/contact
 
 [Support Page](https://wordpress.org/support/plugin/contact-form-7-hide-success-message)
 
-Even Contribution is also welcome.For that switch to [Github](www.github.com)
+Even Contribution is also welcome. Contact me through rohilmistry [dot] ymail [dot] com.
 
 
 **NOTE:** You need to enable the plugin from its setting tab and then only message will be hide otherwise it will remail there.It will only hide the **SUCCESS MESSAGE**.
@@ -60,6 +60,9 @@ Post your issue to our [Support Page](https://wordpress.org/support/plugin/conta
 
 == Changelog ==
 
+= 1.1.1 =
+Compitable with the Latest version of the Wordpress 4.3. (Date: 8 September, 2015)
+
 = 1.1.0 =
 Compitable with the Latest version of the Wordpress 4.2.2. (Date: 17 May, 2015)
 
@@ -71,5 +74,5 @@ Compitable with the Latest version of the Wordpress 4.2.2. (Date: 17 May, 2015)
 
 == Upgrade Notice ==
 
-= 1.1.0 =
-* It is Initial release of that plugin.If you found any bug or want any help, go to our [Support Page](https://wordpress.org/support/plugin/contact-form-7-hide-success-message)
+= 1.1.1 =
+* Compitable upto 4.3.If you found any bug or want any help, go to our [Support Page](https://wordpress.org/support/plugin/contact-form-7-hide-success-message)
