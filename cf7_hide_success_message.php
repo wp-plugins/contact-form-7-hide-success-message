@@ -4,7 +4,7 @@
  * Plugin Name: Contact Form-7 : Hide Success Message
  * Plugin URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * Description: Contact Form-7 : Hide Success Message will hide the Success Message after defined time by the user only if message sent successfully
- * Version: 1.1.1
+ * Version: 1.1.2
  * Author: rohilmistry
  * Author URI: http://stackoverflow.com/users/2778929/rohil-phpbeginner
  * License: GPLv3
@@ -167,6 +167,7 @@ if(cf7_is_plugin_active('contact-form-7/wp-contact-form-7.php')){
 											<h4>Like it ???</h4>
 											<p>Like that plugin ??? then please leave us <a href="https://wordpress.org/support/view/plugin-reviews/contact-form-7-hide-success-message?filter=5#postform" target="_blank" class="wc-rating-link" data-rated="Thanks :)">&#9733;&#9733;&#9733;&#9733;&#9733;</a> ratings to keep us motivated! Thanks in advance from Contact Form 7:Hide Success Message.</p>
 											<p>Also a <strong>Big Thanks</strong> to <a href="https://wordpress.org/plugins/contact-form-7/" target="_blank">Contact Form 7</a> plugin.
+											<p>If you want premium plugin of Contact Form-7:Hide Success Message for just only $2, please mail on <a href="mailto:rohilmistry@ymail.com">rohilmistry@ymail.com</a></p>
 										</div>
 									</div>
 								</div>
